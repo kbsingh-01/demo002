@@ -171,3 +171,5 @@ Then, run integration tests using:
 ```
 mvn clean verify -Popenshift -Popenshift-it
 ```
+
+Does this work ?
